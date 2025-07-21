@@ -20,7 +20,7 @@ class HTMLtoEXEConverter:
     def __init__(self, root):
         self.root = root
         self.root.title("HTML To Exe")
-        self.root.geometry("700x550")
+        self.root.geometry("480x550")
         self.root.resizable(True, True)
         self.icon_path = os.path.join(os.path.dirname(__file__), "icon.ico")
         if os.path.exists(self.icon_path):
