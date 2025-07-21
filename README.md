@@ -98,6 +98,7 @@ graph TD
 ## **📥 Panduan Instalasi Terminal**
 
  ```bash
+pip install -e .
 pip install html-to-exe
 html-to-exe
   ```
