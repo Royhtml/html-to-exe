@@ -1,4 +1,10 @@
 from setuptools import setup, find_packages
+import os
+
+# Baca README dengan encoding UTF-8
+here = os.path.abspath(os.path.dirname(__file__))
+with open(os.path.join(here, 'README.md'), 'r', encoding='utf-8') as f:
+    long_description = f.read()
 
 setup(
     name="html-to-exe",
@@ -6,7 +12,7 @@ setup(
     author="Dwi Bakti N Dev",
     author_email="dwibakti76@gmail.com",
     description="Konversi HTML ke EXE berbasis Electron",
-    long_description=open("README.md").read(),
+    long_description=long_description,  # Gunakan variabel yang sudah dibaca
     long_description_content_type="text/markdown",
     packages=find_packages(),
     install_requires=[
@@ -30,3 +36,4 @@ setup(
     ],
     python_requires=">=3.6",
 )
+print("Isi README:", long_description[:100])  # Cetak 100 karakter pertama
