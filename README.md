@@ -95,6 +95,10 @@ graph TD
 | **RAM** | 2GB+ | Lebih baik 4GB untuk build besar |
 
 ---
+## **📥 Panduan Instalasi Terminal**
+
+- Pip install html-to-exe
+- html-to-exe
 
 ## **📥 Panduan Instalasi Lengkap**  
 
@@ -118,7 +122,7 @@ graph TD
 ### **3️⃣ Clone/Download Proyek**  
 ```bash
 git clone https://github.com/username/html-to-exe-converter.git
-cd html-to-exe-converter
+cd html-to-exe
 ```
 
 ### **4️⃣ Instal Dependencies Python**  
