@@ -1,6 +1,8 @@
 # **HTML to EXE Converter**  
 **Aplikasi Konversi Proyek Web ke Desktop dengan Electron**  
 
+<img src = "html.gif" width ="auto" height = "auto">
+
 ---
 
 ## **📋 Daftar Isi**  
