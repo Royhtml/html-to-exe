@@ -98,8 +98,9 @@ graph TD
 ## **📥 Panduan Instalasi Terminal**
 
  ```bash
-pip install html-to-exe
-html-to-exe
+git clone https://github.com/Royhtml/html-to-exe.git
+cd html-to-exe
+pip install -e .
   ```
 
 ## **📥 Panduan Instalasi Lengkap**  
