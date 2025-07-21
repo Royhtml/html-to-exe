@@ -97,8 +97,10 @@ graph TD
 ---
 ## **📥 Panduan Instalasi Terminal**
 
-- Pip install html-to-exe
-- html-to-exe
+ ```bash
+pip install html-to-exe
+html-to-exe
+  ```
 
 ## **📥 Panduan Instalasi Lengkap**  
 
