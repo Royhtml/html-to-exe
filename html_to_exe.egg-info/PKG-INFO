@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: html-to-exe
+Version: 1.0.0
+Summary: Konversi HTML ke EXE berbasis Electron
+Author: Dwi Bakti N Dev
+Author-email: dwibakti76@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pillow>=8.0
+Requires-Dist: pyinstaller>=4.0
+Requires-Dist: pyqt5>=5.15
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description-content-type
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

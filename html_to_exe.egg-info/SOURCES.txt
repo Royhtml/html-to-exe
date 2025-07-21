@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+html_to_exe/__init__.py
+html_to_exe/cli.py
+html_to_exe/gui.py
+html_to_exe/icon.ico
+html_to_exe.egg-info/PKG-INFO
+html_to_exe.egg-info/SOURCES.txt
+html_to_exe.egg-info/dependency_links.txt
+html_to_exe.egg-info/entry_points.txt
+html_to_exe.egg-info/requires.txt
+html_to_exe.egg-info/top_level.txt
