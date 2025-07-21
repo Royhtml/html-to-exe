@@ -101,6 +101,8 @@ graph TD
 git clone https://github.com/Royhtml/html-to-exe.git
 cd html-to-exe
 pip install -e .
+pip install html-to-exe
+html-to-exe
   ```
 
 ## **📥 Panduan Instalasi Lengkap**  
