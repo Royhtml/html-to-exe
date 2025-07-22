@@ -3,13 +3,13 @@
 </div>
 
 # Jika menggunakan Python
-# **pip install html-to-exe** 
+**pip install html-to-exe** 
  
 `` html-to-exe ``
 
 
 # Jika menggunakan Node.js
-# **npm install -g html-to-exe**
+**npm install -g html-to-exe**
 
 `` node bin/html-to-exe.js ``
 
