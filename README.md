@@ -9,7 +9,7 @@
 
 
 # Jika menggunakan Node.js
-**npm install -g html-to-exe**
+**npm install -g roy-html-to-exe**
 
 `` node bin/html-to-exe.js ``
 
