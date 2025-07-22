@@ -13,7 +13,7 @@
 
 `` node bin/html-to-exe.js ``
 
-[<a href = "[https://www.npmjs.com/package/dwi-html-to-exe](https://www.npmjs.com/package/roy-html-to-exe?activeTab=readme)">Open Project Npm Licensi</a>](https://www.npmjs.com/package/roy-html-to-exe?activeTab=readme)
+<a href src = "https://www.npmjs.com/package/roy-html-to-exe?activeTab=readme">License Nodejs</a>
 
 **Aplikasi Konversi Proyek Web ke Desktop dengan Electron**  
 
