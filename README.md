@@ -1,5 +1,5 @@
 <div class = "center">
-    <img src = "./html-to-exe/icon.ico"
+    <img src = "icon.ico"
 </div>
 
 # Jika menggunakan Python
