@@ -13,6 +13,8 @@
 
 `` node bin/html-to-exe.js ``
 
+<a href = "https://www.npmjs.com/package/dwi-html-to-exe">Open Project Npm Licensi</a>
+
 **Aplikasi Konversi Proyek Web ke Desktop dengan Electron**  
 
 <img src = "html.gif" width ="auto" height = "auto">
