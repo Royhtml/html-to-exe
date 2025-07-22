@@ -1,7 +1,12 @@
-# **HTML to EXE Converter**  
+# **pip install html-to-exe** 
+`` html-to-exe ``
+
+
 **Aplikasi Konversi Proyek Web ke Desktop dengan Electron**  
 
 <img src = "html.gif" width ="auto" height = "auto">
+
+<a href = "https://pypi.org/project/html-to-exe/">Open Project PYPI Python Licensi</a>
 
 ---
 
@@ -100,9 +105,6 @@ graph TD
 ## **📥 Panduan Instalasi Terminal**
 
  ```bash
-git clone https://github.com/Royhtml/html-to-exe.git
-cd html-to-exe
-pip install -e .
 pip install html-to-exe
 html-to-exe
   ```
