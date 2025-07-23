@@ -7,6 +7,16 @@
  
 `` html-to-exe ``
 
+# **pip install html-to-exe** 
+`` html-to-exe ``
+`` html_to_exe ``
+
+## Version Realese Running
+- 1.3.4 ```html-to-exe```
+- 1.3.3 ```html_to_exe```
+- 1.2.2 ```html_to_exe```
+- 1.2.1 ```html_to_exe```
+- 1.0.0 ```html-to-exe```
 
 # Jika menggunakan Node.js
 **npm install -g roy-html-to-exe**
