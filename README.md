@@ -1,29 +1,20 @@
-<div class = "center">
-    <img src = "icon.ico"
-</div>
-
-# Jika menggunakan Python
-**pip install html-to-exe** 
- 
-`` html-to-exe ``
-
 # **pip install html-to-exe** 
 `` html-to-exe ``
 `` html_to_exe ``
 
 ## Version Realese Running
+- 1.3.5 ```html-to-exe```
 - 1.3.4 ```html-to-exe```
 - 1.3.3 ```html_to_exe```
 - 1.2.2 ```html_to_exe```
 - 1.2.1 ```html_to_exe```
 - 1.0.0 ```html-to-exe```
 
-# Jika menggunakan Node.js
-**npm install -g roy-html-to-exe**
+## Vitur Realisasi
+- add Icon icon.ico
+- add Icon icon.icns
 
-`` node bin/html-to-exe.js ``
-
-<a href src = "https://www.npmjs.com/package/roy-html-to-exe?activeTab=readme">License Nodejs</a>
+---
 
 **Aplikasi Konversi Proyek Web ke Desktop dengan Electron**  
 
