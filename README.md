@@ -2,6 +2,8 @@
 `` html-to-exe ``
 `` html_to_exe ``
 
+<img src = "icon.ico">
+
 ## Version Realese Running
 - 1.3.5 ```html-to-exe```
 - 1.3.4 ```html-to-exe```
