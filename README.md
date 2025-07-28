@@ -2,9 +2,10 @@
 `` html-to-exe ``
 `` html_to_exe ``
 
-<img src = "icon.ico">
+<img src = "https://github.com/Royhtml/html-to-exe/raw/1.3.5/icon.ico" width ="auto" height = "auto">
 
 ## Version Realese Running
+- 1.3.6 ```html-to-exe```
 - 1.3.5 ```html-to-exe```
 - 1.3.4 ```html-to-exe```
 - 1.3.3 ```html_to_exe```
@@ -20,7 +21,7 @@
 
 **Aplikasi Konversi Proyek Web ke Desktop dengan Electron**  
 
-<img src = "html.gif" width ="auto" height = "auto">
+<img src = "https://github.com/Royhtml/html-to-exe/raw/1.3.5/html.gif" width ="auto" height = "auto">
 
 <a href = "https://pypi.org/project/html-to-exe/">Open Project PYPI Python Licensi</a>
 
