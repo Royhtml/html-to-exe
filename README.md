@@ -2,7 +2,7 @@
 `` html-to-exe ``
 `` html_to_exe ``
 
-<img src = "https://github.com/Royhtml/html-to-exe/raw/1.3.5/icon.ico" width ="auto" height = "auto">
+<img src = "https://github.com/Royhtml/html-to-exe/blob/main/icon.ico" width ="auto" height = "auto">
 
 ## Version Realese Running
 - 1.3.6 ```html-to-exe```
