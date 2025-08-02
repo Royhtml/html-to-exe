@@ -175,7 +175,7 @@ class HTMLtoEXEConverter:
         ttk.Button(preview_btn_frame, text="Open in Browser", command=self.open_in_browser).pack(side=tk.RIGHT, padx=5)
         
         # Console Output
-        console_frame = ttk.LabelFrame(main_frame, text="Output Log", padding="5")
+        console_frame = ttk.LabelFrame(main_frame, text="Output Log - Dwi Bakti N Dev", padding="5")
         console_frame.pack(fill=tk.BOTH, expand=False, pady=5)
         
         # Create a container frame for the console with fixed height
